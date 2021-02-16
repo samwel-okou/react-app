@@ -1,0 +1,52 @@
+{
+  "tasks": [
+    {
+      "text": "The Only change",
+      "day": "6th Feb at 10:45pm",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Go Shopping",
+      "day": "5th Feb at 4:00pm",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Go visit a friend",
+      "day": "7th Feb at 4:30pm",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "Create a TodoList App",
+      "day": "7th Feb at 9:00am",
+      "reminder": true,
+      "id": 7
+    },
+    {
+      "text": "Linsten To Gospel Songs",
+      "day": "6th Feb at 9:45pm",
+      "reminder": true,
+      "id": 8
+    },
+    {
+      "text": "Dinner With My Wife",
+      "day": "7th Feb at 7:30PM",
+      "reminder": true,
+      "id": 10
+    },
+    {
+      "text": "The Only Answer is Prayer",
+      "day": "6th Feb at 10:45pm",
+      "reminder": true,
+      "id": 13
+    },
+    {
+      "text": "The Only Answer is Prayer",
+      "day": "6th Feb at 10:45pm",
+      "reminder": true,
+      "id": 14
+    }
+  ]
+}
